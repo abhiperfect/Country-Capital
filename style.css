@@ -1,0 +1,52 @@
+body{
+    background-color:#EEEEEE;
+    height:100 vh;
+} 
+
+.country{
+        background-color: #176B87;
+        height:20 px;
+        display:flex;
+        justify-content:center;
+       margin:40px 50px;
+      margin-bottom:60px;
+}
+.country > * {
+                margin: 20px 20px;           
+                font-size:20px;
+                color:#64CCC5;   
+                font-weight:900;    
+}
+#myselect{
+    width: 100px;
+     background-color:#053B50;
+     border:5px solid #64CCC5;
+     border-radius: 6px;
+}
+.footer{
+      display:flex;
+     background-color:#176B87;
+     margin:40px 50px;
+     height: 50vh;
+
+} 
+hr{
+  width: 10rem;
+  height:5px;
+  margin:50px;
+   margin-bottom:0px;
+  background-color:#EEEEEE;
+}
+footer > p {
+    margin:50px;
+   margin-top:0px;
+  color:#EEEEEE;
+}
+.flag{
+  background-color: #176B87;
+        height:20 px;
+        display:flex;
+        justify-content:space-around;
+       margin:40px 50px;
+      margin-bottom:60px;
+}
